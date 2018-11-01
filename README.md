@@ -8,7 +8,8 @@ This template includes Express with TypeORM meaning you can use any SQL database
 - TypeORM
 - Nunjucks templating
 - LESS styling
-- Morgan logging 
+- Morgan logging
+- `http-errors`
 
 ---
 ## Instructions
