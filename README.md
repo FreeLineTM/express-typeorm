@@ -13,6 +13,12 @@ This template includes Express with TypeORM meaning you can use any SQL database
 ---
 ## Instructions
 
+#### Configuration
+Express port is set to using the `PORT` environment variable, if none is provided `3030` will be used. 
+
+TypeORM provides a variety of configuration options located in `ormconfig.json`. You can find them [here](https://github.com/typeorm/typeorm/blob/master/docs/using-ormconfig.md).
+
+#### Use
 Install TypeScript (if not already installed).
 ```bash
 npm -g install typescript
