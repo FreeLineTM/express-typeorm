@@ -1,0 +1,10 @@
+{
+  "type": "type",
+  "host": "localhost",
+  "port": 1111,
+  "username": "username",
+  "password": "password",
+  "database": "database",
+  "synchronize": false,
+  "entities": [ "src/entity/*.js" ]
+}

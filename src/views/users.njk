@@ -1,0 +1,11 @@
+{% extends 'layout.njk' %}
+
+{% block body %}
+    <h1>{{ title }}</h1>
+    <ul>
+        {% for user in users %}
+            <a href={{ '/users/' + user.id }}>{{ user.lastName + ', ' + user.firstName }}</a>
+            <br/>
+        {% endfor %}
+    </ul>
+{% endblock body %}

@@ -1,0 +1,8 @@
+node_modules/
+
+# Compiled
+*.js
+*.css
+
+# IDE
+.idea/
