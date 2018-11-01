@@ -13,12 +13,12 @@ This template includes Express with TypeORM meaning you can use any SQL database
 ---
 ## Instructions
 
-Install TypeScript (if not already installed)
+Install TypeScript (if not already installed).
 ```bash
 npm -g install typescript
 ```
 
-Install packages, compile TypeScript and start
+Install packages, compile TypeScript and start.
 ```bash
 npm install
 tsc
