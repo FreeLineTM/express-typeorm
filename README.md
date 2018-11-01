@@ -3,7 +3,7 @@
 
 This template includes Express with TypeORM meaning you can use any SQL database with experimental support for MongoDB.
 
-##### Full feature list
+#### Full feature list
 - Express
 - TypeORM
 - Nunjucks templating
@@ -11,7 +11,7 @@ This template includes Express with TypeORM meaning you can use any SQL database
 - Morgan logging 
 
 ---
-### Instructions
+## Instructions
 
 Install TypeScript (if not already installed)
 ```bash
