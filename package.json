@@ -13,14 +13,14 @@
   "author": "Eirik Fossestøl Andresen <eiriand03@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^3.1.4"
-  },
-  "dependencies": {
     "@types/body-parser": "^1.17.0",
     "@types/express": "^4.16.0",
     "@types/http-errors": "^1.6.1",
     "@types/morgan": "^1.7.35",
     "@types/nunjucks": "^3.1.0",
+    "typescript": "^3.1.4"
+  },
+  "dependencies": {
     "express": "^4.16.4",
     "http-errors": "^1.7.1",
     "less-middleware": "^3.0.1",
